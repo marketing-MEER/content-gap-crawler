@@ -6,3 +6,5 @@ __pycache__/
 *.htaccess
 *.nginx.conf
 *.html
+!examples/**/*.html
+!tests/**/*.html
